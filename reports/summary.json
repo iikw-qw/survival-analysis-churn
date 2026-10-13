@@ -1,0 +1,17 @@
+{
+  "customers": 5000,
+  "censored_share": 0.672,
+  "overall_retention_day_365": 0.64,
+  "retention_day_365_by_contract": {
+    "annual": 0.807,
+    "monthly": 0.549
+  },
+  "logrank_contract_p_value": 5.39e-69,
+  "hazard_ratios": {
+    "premium": 0.51,
+    "standard": 0.8,
+    "annual": 0.33,
+    "tickets": 1.23,
+    "age": 0.99
+  }
+}
